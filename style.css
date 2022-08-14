@@ -1,0 +1,16 @@
+h2{
+    font-size: 30px !important;
+}
+.btn-warning:hover{
+background-color: rgba(30, 178, 237, 0.563);
+}
+canvas{
+    animation-name: asd;
+animation-duration: 20s;
+animation-iteration-count: infinite;
+
+}
+@keyframes asd {
+    from {box-shadow: 1px 1px 40px rgba(24, 238, 135, 0.64)};
+    to {box-shadow: 1px 1px 40px rgba(253, 13, 13, 0.801)};
+}
